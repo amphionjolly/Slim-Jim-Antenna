@@ -1,0 +1,5 @@
+﻿Name,Dimension,Total Length/Quantity,Cost
+"Insualted Electrical Copper wire","4mm","287cm","$2.00"
+"Coax feedline","-","5m","$5.00"
+"BNC Connector","-","1 unit","$1.50"
+"PVC Pipe","2.5cm diametre","3m","$6.00"
